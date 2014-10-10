@@ -1,0 +1,63 @@
+#logocontainer {
+	width: auto;
+	height: 100px;
+
+}
+
+#sitelogo {
+	height: 100px;
+	float: right;
+}
+
+#menubar {
+	width: auto;
+	height: 40px;
+	background-color: darkblue;
+}
+
+ul {
+    list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	overflow: hidden;
+}
+
+li {
+    	float: left;
+}
+
+#login {
+	float: right;
+}
+
+a:link, a:visited {
+    	display: block;
+     	font-weight: bold;
+    	color: #FFFFFF;
+    	text-align: center;
+	padding: 4px;
+    	text-decoration:none;
+	text-transform: uppercase;
+}
+
+a:hover, a:active {
+    	background-color: white;
+	color: darkblue;
+}
+
+h1 {
+	float: left;
+	color: darkblue;
+	font-size: 25px;
+	Text-Transform: uppercase;
+}
+
+h2 {
+	width: auto;
+	Background-color: darkblue;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 15px;
+	align: center;
+}
